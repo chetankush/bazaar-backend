@@ -7,9 +7,8 @@ Bazaar Node.js API is a simple backend application built with Node.js to serve d
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Endpoints](#endpoints)
-- [Contributing](#contributing)
+                    
+  
                     
   
 
@@ -31,7 +30,10 @@ Bazaar Node.js API is designed to handle `GET` requests and provide basic functi
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/bazaar-node-api.git
+   git clone https://github.com/your-username/bazaar-node-api.git                                                                                                                                            
+  
+  
+  
 Navigate to the project directory:
 
 bash
@@ -63,3 +65,5 @@ Contributing
 Contributions are welcome! If you find any issues or want to contribute, feel free to open an issue or create a pull request.
 
 License
+                    
+  
